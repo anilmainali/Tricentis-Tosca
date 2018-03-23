@@ -8,4 +8,9 @@
 5. check your mail and click on DOWNLOAD NOW button
 6. .exe file will be downloaded
 7. After the download double click on the downloaed file.
-8.
+8. User Account Control YES
+9. Click on Install
+10. File beggins to Extracting
+11. Click on Yes to Setup
+12..NET Framework 4.7.1 Setup begins
+13.
