@@ -16,3 +16,5 @@
 13.Click yes to reboot
 14. Click YES for User Control Account dialog
 15. Click Install
+16. Restart NO.
+
