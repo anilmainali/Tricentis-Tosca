@@ -13,4 +13,4 @@
 10. File beggins to Extracting
 11. Click on Yes to Setup
 12..NET Framework 4.7.1 Setup begins
-13.
+13.Click yes to reboot
