@@ -14,3 +14,5 @@
 11. Click on Yes to Setup
 12..NET Framework 4.7.1 Setup begins
 13.Click yes to reboot
+14. Click YES for User Control Account dialog
+15. Click Install
