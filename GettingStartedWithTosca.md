@@ -18,3 +18,5 @@
 15. Click Install
 16. Restart NO.
 
+# Resources
+https://support.tricentis.com/community/manuals.do
