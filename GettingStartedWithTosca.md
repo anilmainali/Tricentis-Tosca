@@ -20,3 +20,7 @@
 
 # Resources
 https://support.tricentis.com/community/manuals.do
+
+https://support.tricentis.com/community/articles.do
+
+
