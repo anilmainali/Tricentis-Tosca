@@ -39,12 +39,39 @@ For Example: AS1 Training.
 
 6. Click OK.
 
+Message will appeapear saying your workspace has created successfully.
+
+Close the message dialog.
+
+Your tosca will open with a default view of tosca. Here all the base subsets has been imported.
+
+You will find many elements on the modules section.
+
 # Delete a Project
 1. Navigate to where you have saved your project
 
 In my case C:\Tosca_Projects\Tosca_Workspaces
 
 2. Select and delete the Project/workspace
+
+
+# Create a Module Identify by Property
+## Use XScan to create a Module
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # Resources
 https://support.tricentis.com/community/manuals.do
