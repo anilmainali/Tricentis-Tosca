@@ -18,6 +18,14 @@
 15. Click Install
 16. Restart NO.
 
+# Create a New Project
+Steps:
+1. Click on PROJECT.
+2. Click ON New.
+Note: Tosca Commander: Create new workspace dialog opens.
+3. Write a name for new workspace.
+For Example: AS1 Training.
+
 # Resources
 https://support.tricentis.com/community/manuals.do
 
