@@ -23,4 +23,6 @@ https://support.tricentis.com/community/manuals.do
 
 https://support.tricentis.com/community/articles.do
 
+https://support.tricentis.com/community/manuals_detail.do?lang=en&version=11.1.0&url=resources/webhelp/cover_web_new.htm
+
 
