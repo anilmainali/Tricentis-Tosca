@@ -18,13 +18,23 @@
 15. Click Install
 16. Restart NO.
 
-# Create a New Project
+# Create a New Project/workspace
 Steps:
 1. Click on PROJECT.
 2. Click ON New.
+
 Note: Tosca Commander: Create new workspace dialog opens.
+
 3. Write a name for new workspace.
+
 For Example: AS1 Training.
+
+# Delete a Project
+1. Navigate to where you have saved your project
+
+In my case C:\Tosca_Projects\Tosca_Workspaces
+
+2. Select and delete the Project/workspace
 
 # Resources
 https://support.tricentis.com/community/manuals.do
