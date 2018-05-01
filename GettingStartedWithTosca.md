@@ -19,7 +19,11 @@ It is a automation tools which supports about 35 different technology.
 Hardware requirement for Tosca Commander:
 
 - CPU - i3 2.4 gHZ
+- RAM - 4 GB
+- Hard DISC Space - 5 GB
+- Network 100 Mb/s
 
+- .NET framework Installed
 
 
 1. Navigate to https://www.tricentis.com/testing-tool-trial/?utm_source=website&utm_medium=index-page&utm_campaign=Q1-2018-Index-Page
