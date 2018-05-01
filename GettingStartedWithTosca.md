@@ -4,6 +4,8 @@
 
 ## What is TOSCA TestSuite?
 
+It is a automation tools which supports about 35 different technology.
+
 ## Comparision Of Tosca with other Automation Tools
 
 ## Advantages and Disadvantages of TOSCA
