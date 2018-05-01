@@ -46,6 +46,18 @@ or you can directly click on this link : https://www.tricentis.com/automated-sof
 15. Click Install
 16. Restart NO.
 
+# Liscence Activation Steps
+Trial liscense for 14 days.
+
+Follow these steps:
+
+- Navigate to All programs
+- Go to Tridents folder
+- Click on TOSCA Commander
+- Click on Connect
+- Select "Connect to Cloud Hosted License Server".
+
+
 # Create a New Project/workspace
 Steps:
 1. Click on PROJECT.
