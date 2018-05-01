@@ -16,6 +16,10 @@ It is a automation tools which supports about 35 different technology.
 
 # Minimum System Configuration Requirement
 
+Hardware requirement for Tosca Commander:
+
+- CPU - i3 2.4 gHZ
+
 
 
 1. Navigate to https://www.tricentis.com/testing-tool-trial/?utm_source=website&utm_medium=index-page&utm_campaign=Q1-2018-Index-Page
