@@ -104,6 +104,9 @@ It has 7 Components:
 
 1. TestCases
 2. Execution
+3. Modules
+4. Issues
+5. 
 
 
 # Create a Module Identify by Property
