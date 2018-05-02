@@ -112,7 +112,7 @@ It has 7 Components:
 
 # Test Process Flow in TOSCA TestSuite
 
-![toscatestsuite](https://user-images.githubusercontent.com/10678180/39542064-1ba21fec-4e0d-11e8-893d-13c37a5e2ff4.png)
+<img width="725" alt="toscatestsuite" src="https://user-images.githubusercontent.com/10678180/39542272-b55fe240-4e0d-11e8-9a6e-43d4a2c7b3e1.png">
 
 
 
