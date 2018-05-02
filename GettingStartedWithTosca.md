@@ -98,6 +98,9 @@ In my case C:\Tosca_Projects\Tosca_Workspaces
 
 2. Select and delete the Project/workspace
 
+# Components of Tosca TestSuite
+
+
 
 # Create a Module Identify by Property
 ## Use XScan to create a Module
