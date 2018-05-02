@@ -107,6 +107,8 @@ It has 7 Components:
 3. Modules
 4. Issues
 5. Reporting
+6. Requirements
+7. TestCaseDesign
 
 
 # Create a Module Identify by Property
