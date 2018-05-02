@@ -4,6 +4,7 @@
 
 ## What is TOSCA TestSuite?
 
+
 Tricentis Tosca in 60 Seconds
 
 https://youtu.be/6469lMkeMiM
@@ -99,7 +100,9 @@ In my case C:\Tosca_Projects\Tosca_Workspaces
 2. Select and delete the Project/workspace
 
 # Components of Tosca TestSuite
+It has 7 Components:
 
+1. Test Cases
 
 
 # Create a Module Identify by Property
