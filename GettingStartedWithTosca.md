@@ -106,7 +106,7 @@ It has 7 Components:
 2. Execution
 3. Modules
 4. Issues
-5. 
+5. Reporting
 
 
 # Create a Module Identify by Property
