@@ -66,20 +66,21 @@ Steps:
 2. Click ON New.
 
 Note: Tosca Commander: Create new workspace dialog opens.
-3. Select None 
 
-note: This will create a single user workspace.lets us use this only for training purposes. In a normal working environment.you will be using the multi user environment.
+3. Select None. 
+
+Note: This will create a single user workspace.lets us use this only for training purposes. In a normal working environment.you will be using the multi user environment.
 
 
-3. Write a name for new workspace.
+4. Write a name for new workspace.
 
 For Example: AS1 Training.
 
-4. Select a box to use a template
+5. Select a box to use a template
 
-5. locate base subset you downloaded from the learning management system, select and click open.
+6. locate base subset you downloaded from the learning management system, select and click open.
 
-6. Click OK.
+7. Click OK.
 
 Message will appeapear saying your workspace has created successfully.
 
@@ -90,6 +91,7 @@ Your tosca will open with a default view of tosca. Here all the base subsets has
 You will find many elements on the modules section.
 
 # Delete a Project
+
 1. Navigate to where you have saved your project
 
 In my case C:\Tosca_Projects\Tosca_Workspaces
