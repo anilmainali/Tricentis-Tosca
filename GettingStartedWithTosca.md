@@ -102,7 +102,8 @@ In my case C:\Tosca_Projects\Tosca_Workspaces
 # Components of Tosca TestSuite
 It has 7 Components:
 
-1. Test Cases
+1. TestCases
+2. Execution
 
 
 # Create a Module Identify by Property
