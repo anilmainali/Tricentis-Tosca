@@ -116,6 +116,9 @@ It has 7 Components:
 
 # Create a Test Case
 
+## Test Case Flow
+1. Navigate to home page
+
 
 # Create a Module Identify by Property
 ## Use XScan to create a Module
