@@ -157,6 +157,8 @@ https://support.tricentis.com/community/manuals_detail.do?lang=en&version=11.1.0
 
 # Sample App
 
+http://demowebshop.tricentis.com/
+
 http://sampleapp.tricentis.com/101/index.php
 
 
