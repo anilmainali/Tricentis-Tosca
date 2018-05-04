@@ -145,6 +145,10 @@ It has 7 Components:
 
 
 # Resources
+## Tricentis Tosca Testsuite Online Help
+
+https://documentation.tricentis.com/en/1010/index.htm#resources/webhelp/cover_web_new.htm%3FTocPath%3D_____1
+
 https://support.tricentis.com/community/manuals.do
 
 https://support.tricentis.com/community/articles.do
