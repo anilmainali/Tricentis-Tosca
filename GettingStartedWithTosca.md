@@ -118,6 +118,8 @@ It has 7 Components:
 
 ## Test Case Flow
 1. Navigate to home page
+2. Click on Log in
+
 
 
 # Create a Module Identify by Property
