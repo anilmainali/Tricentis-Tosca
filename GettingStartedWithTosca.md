@@ -119,6 +119,10 @@ It has 7 Components:
 ## Test Case Flow
 1. Navigate to home page
 2. Click on Log in
+3. Enter Email Address
+4. Enter Password
+5. Click on Log Log in
+
 
 
 
